@@ -1,0 +1,10 @@
+last_change = 2026-10-21T10:41:48.711876Z
+addr = 0xfab900
+size = 0x481
+name = "sub_180FAC900"
+
+[header]
+name = "sub_180FAC900"
+addr = 0xfab900
+
+[header.args]
